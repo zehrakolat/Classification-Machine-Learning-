@@ -25,10 +25,10 @@ Bu proje, Kaggle üzerindeki yapılandırılmış tıbbi verileri kullanarak bir
 
 | Model | Accuracy (Test) | F1-Score | Karakteristik |
 | :--- | :---: | :---: | :--- |
-| **GBM (Winner)** | **0.63** | **0.63** | [cite_start]En dengeli sonuçlar ve en iyi genelleme yeteneği. |
-| **SVM** | 0.62 | 0.63 | [cite_start]En tutarlı doğrusal olmayan temel model. |
-| **Logistic Reg.** | 0.61 | 0.62 | [cite_start]Kararlı ve yorumlanabilir sonuçlar. |
-| **Random Forest** | 0.61 | 0.52 | [cite_start]Eğitimde %92 F1 başarısına rağmen yüksek overfitting. |
+| **GBM (Winner)** | **0.63** | **0.63** | En dengeli sonuçlar ve en iyi genelleme yeteneği. |
+| **SVM** | 0.62 | 0.63 | En tutarlı doğrusal olmayan temel model. |
+| **Logistic Reg.** | 0.61 | 0.62 | Kararlı ve yorumlanabilir sonuçlar. |
+| **Random Forest** | 0.61 | 0.52 | Eğitimde %92 F1 başarısına rağmen yüksek overfitting. |
 
 
 
