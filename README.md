@@ -1,6 +1,6 @@
 # 🫀 Heart Disease Risk Prediction using Machine Learning
 
-[cite_start]Bu proje, Kaggle üzerindeki yapılandırılmış tıbbi verileri kullanarak bireylerin kalp hastalığı riskini tahmin etmek amacıyla geliştirilmiştir[cite: 1013, 1563]. [cite_start]Proje kapsamında veri ön işleme, detaylı keşifçi veri analizi (EDA), temel sınıflandırma modelleri ve ileri seviye topluluk (ensemble) öğrenme teknikleri uygulanmıştır[cite: 1555].
+Bu proje, Kaggle üzerindeki yapılandırılmış tıbbi verileri kullanarak bireylerin kalp hastalığı riskini tahmin etmek amacıyla geliştirilmiştir[cite: 1013, 1563]. [cite_start]Proje kapsamında veri ön işleme, detaylı keşifçi veri analizi (EDA), temel sınıflandırma modelleri ve ileri seviye topluluk (ensemble) öğrenme teknikleri uygulanmıştır[cite: 1555].
 
 ## 🚀 Proje Özellikleri
 
